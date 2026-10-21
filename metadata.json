@@ -1,0 +1,6 @@
+{
+  "name": "කාර්මික දැනුම",
+  "description": "Industrial Sewing Machine Technical Knowledge & Training Application for technicians with Sinhala, English, and Tamil multi-language support.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
